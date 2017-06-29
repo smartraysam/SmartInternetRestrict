@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Internet Restrict</string>
+    <string name="menu_mark">Mark/Unmark All</string>
+    <string name="menu_clear">Clear App list</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_blacklist">Blacklist</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_wifi">Toggle Wi-Fi</string>
+    <string name="title_activity_help">Help</string>
+</resources>
